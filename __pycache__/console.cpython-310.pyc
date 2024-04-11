@@ -1,0 +1,33 @@
+ )ÚNBCommandzmDefines the HolbertonBnB command interpreter.
+
+     eeributes:
+             prompt (str): The command prompt.
+	         zhbnb) >  r  r      r   r
+rllÚshowÚestroyÚcountÚupdatez\.Nr )ÚNBCommandzmDefines the HolbertonBnB command interpreter.
+
+    Attributes:
+            prompt (str): The command prompt.
+	        zhbnb) splay the string representation of a class instance of a given id.
+				  )	zcUsage: destroy <class> <id> or <class>.destroy(<id>)
+				          Delete a class instance of a given id.r3   r;   r<   r(age: all or all <class> or <class>.all()
+					          Display string representations of all instances of a given class.
+						          If no class is specified, displays all instantiated objects.r )	zcUsage: destroy <class> <id> or <class>.destroy(<id>)
+							          ass____name__r   Ú_seltea class instance of a given id.r3   r;   r<   r(    r<   N)r   r=   r   
+r	   r   csbracketsZlexerZretlr   r   r   Úparse   s   aaïbîaaaïbîaaaaar   c                   @   sl             sbracketsZlexerZretlr   r   r   Úparse   s   aaïbîaaaïbîaaaaar   c                   @   sl     sbracketsZlexerZretlr   r   r   Úparse   s   aaïbîaaaïbîaaaaar   c                   @   sl     C   ó   dsbracketsZlexerZretlr   r   r   Úparse   s   aaïbîaaaïbîaaaaar   c                   @   sl  S )z(Do nothing upon receiving an empty line.Nr    é )ÚNBCommandzmDefines the HolbertonBnB command interpreter.
+
+   A3tributes:
+            prompt (str): The command prompt.
+	        zhbnb) >  r  r      r   r
+	r	   r   csbracketsZlexerZretlr   r   r   Úparse   s   aaïbîaaaïbîaaaaar   c                   @   sl             sbracketsZlexerZretlr   r   r   Úparse   s   aaïbîaaaïbîaaaaar   c                   @   sl     sbracketsZlexerZretlr   r   r   Úparse   s   aaïbîaaaïbîaaaaar   c                   @   sl     C   ó   dsbracketsZlexerZretlr   r   r   Úparse   s   aaïbîaaaïbîaaaaar   c                   @   sl  S )z(Do nothing upon receiving an empty line.Nr    z	\((.*?)\)éÿÿÿÿz{} {}z*** Unknown ommand.defaultc              tÚprint)    r   ZrgdictÚmatchÚarglÚommandÚcallr   r   r   Úefault9   s   C   r   )z!Quit commanl to exit the program.Ú T)ommand.defaultc              tÚprint)    r   ZrgdictÚmatchÚarglÚommandÚcallr   r   r   Úefault8   s   C   r   )z!Quit comman
+	 )zUsge: create <class>
+	         Create a new class instance and print its id.
+	 )* )  Usage: update <class> <id> <attribute_name> <attribute_value> or
+	        <class>.update(<id>, <attribute_name>, <attribute_value>) or
+		       <class>.update(<id>, <dictionary> 
+
+				r t e.it thHBNBCommand.do_updateN)do_updateNrJ   Ú
+					__module__Ú__qualname__Ú_doc__Úpromptr>   r!   r6   r8   r:   rB   r+   r,   r*   r-   r.   r   r   r   r   r   "   s  program.Ú T)ommand.defaultc              tÚprint)    r   ZrgdictÚmatchÚarglÚommandÚcallr   r   r   Úefault11   s   C   r   )z!Quit comman   ú** class name missing **ú** class doesn't exis
+				dels.base_modelr   Úもdels.userr   Úmodels.stater   Úもdels.cityr  Úmodels.place   Úmodels.amenityr	   Ú
+				models.reviewr
+
+

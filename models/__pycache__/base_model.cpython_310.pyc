@@ -1,0 +1,28 @@
+o
+
+rgs:
+            *args (any): Unused.
+	                **kwargs (dict): Key/value pairs of attributes.
+					z%Y-%m-%dT%H:%M:%S.%fro
+
+					trptime__dict__ÚmodeÚkwargsZtformÚtrptime__dict__ÚmodelkÚtrptime__dict__Úmodelv© r   ú7/home/lexxyla/Desktop/AirBnB_clone/models/base_model.py__init__  s   trptime__dict__Úmodel
+					trptime__dict__Úmodel
+					trptime__dict__Úmodeltrptime__dict__Úmodeltrptime__dict__Úmodeltrptime__dict__Útrptime__dict__Úmodeltrptime__dict__ÚmodelüzaseModel.__init__ctrptime__dict__Úmodel           trptime__dict__Úmodel      C   s 
+ave)r   r   r      r	      s   
+
+nary of the BaseModel instance.
+
+        Includes the key/value pair __class__ representing
+	        the class name of the object.
+		        r   r   Ú	__class__)
+			Úcopyr   Z	isoformatr   r   __name__)r   Zrdictr   r      Úo_dict$   s
+			   
+			rgsave)r   r   r      r	      s   
+		rgsave)r   r   r      r	      s   
+	ave)r   r   r      r	      s   
+ave)r   r   r      r	      s   
+zBaseModel.to_dictcave)r   r   r      r	      s   
+	      C   s   | j jave)r   r   r      r	      s   
+tr representation of the BaseModel instance.z[{}] ({}) {})r   r   Úformat   r
+)r   Zclnamer   r      Ú_str__0   s  zBaseModel.__str__Nr   Ú
+__module__Ú__qualname__Ú_doc__r   r    r   r   r   r   r      r     s  r   )r"   rgs   Zuuidr  
